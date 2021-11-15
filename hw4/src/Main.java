@@ -1,9 +1,5 @@
 // javac -encoding ISO-8859-1 file_name.java
 import java.io.*;
-import java.lang.reflect.Array;
-import java.util.ArrayList;
-import java.util.LinkedList;
-import java.util.List;
 import java.util.Scanner;
 
 /**
