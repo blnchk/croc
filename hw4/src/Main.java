@@ -27,7 +27,7 @@ public class Main {
                 //Пробегаемся по полученному массиву
                 for(String word : words){
                     //Не учитываем "пустышки"
-                    if(w!=""){
+                    if(!word.equals("")){
                         count++;
                     }
                 }
