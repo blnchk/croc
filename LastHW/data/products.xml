@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<products>
+    <product>
+        <prodID>1</prodID>
+        <prodName>Handbag</prodName>
+    </product>
+    <product>
+        <prodID>2</prodID>
+        <prodName>Clutch</prodName>
+    </product>
+    <product>
+        <prodID>3</prodID>
+        <prodName>Backpack</prodName>
+    </product>
+    <product>
+        <prodID>4</prodID>
+        <prodName>Waist Bag</prodName>
+    </product>
+    <product>
+        <prodID>5</prodID>
+        <prodName>Wallet</prodName>
+    </product>
+    <product>
+        <prodID>6</prodID>
+        <prodName>Suitcase</prodName>
+    </product>
+    <product>
+        <prodID>7</prodID>
+        <prodName>Gym bag</prodName>
+    </product>
+    <product>
+        <prodID>8</prodID>
+        <prodName>Shopper</prodName>
+    </product>
+    <product>
+        <prodID>9</prodID>
+        <prodName>Case</prodName>
+    </product>
+    <product>
+        <prodID>10</prodID>
+        <prodName>Shoulder bag</prodName>
+    </product>
+</products>

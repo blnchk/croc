@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sallers>
+    <saller>
+        <salerID>1</salerID>
+        <surname>Gray</surname>
+        <name>Tom</name>
+    </saller>
+    <saller>
+        <salerID>2</salerID>
+        <surname>Ford</surname>
+        <name>Alice</name>
+    </saller>
+    <saller>
+        <salerID>3</salerID>
+        <surname>Brown</surname>
+        <name>Jack</name>
+    </saller>
+    <saller>
+        <salerID>4</salerID>
+        <surname>Thompson</surname>
+        <name>Sam</name>
+    </saller>
+    <saller>
+        <salerID>5</salerID>
+        <surname>Scott</surname>
+        <name>Samanta</name>
+    </saller>
+</sallers>
